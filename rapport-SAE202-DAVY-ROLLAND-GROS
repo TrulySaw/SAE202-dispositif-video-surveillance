@@ -1,0 +1,85 @@
+Rapport de Gestion de Projet - SAE Dispositif de Transmission, Vidéo-surveillance
+
+1. Introduction et Contexte du Projet
+Présentation générale : 
+Dans le cadre de notre formation, cette SAE nous a permis de développer un système de vidéo-surveillance avec détection d'intrusion. Cela nous a amenés à travailler sur plusieurs aspects techniques : programmation, interface web, configuration matérielle 
+et gestion de projet.
+
+2. Composition et Organisation de l'Équipe
+2.1 Profil de l'équipe : 
+
+Nous avons réalisé ce projet à 3, Noah DAVY, Valentin ROLLAND et Axel GROS, nous nous sommes répartis les tâches entre :
+    Développement général,
+    Interface web et gestion,
+    Configuration et maintenance.
+
+Domaines d'intervention :
+    Développement : Conception et implémentation des algorithmes de détection de mouvement,
+    Filtrage des signaux : Mise en place des filtres pour réduire le bruit et optimiser la détection
+    Optimisation des performances : Ajustement des paramètres de seuil pour minimiser les faux positifs
+    Tests et validation : Vérification du bon fonctionnement des algorithmes dans différentes conditions
+
+Défis rencontrés :
+    Calibrage précis des seuils de détection pour éviter les déclenchements intempestifs,
+    Optimisation du temps de traitement pour garantir une détection en temps réel,
+    Adaptation de l'algorithme aux variations d'éclairage.
+
+3. Nos contributions : 
+3.1 Contribution de Noah DAVY : 
+
+Domaines d'intervention :
+    Développement : contribution importante en ce qui concerne le développement général (filtres...),
+    Tests : a effectué de nombreux tests avec différentes caméras,
+    Rédaction : rédaction du rapport et création du diaporama présentant le projet.
+
+3.2 Contribution de Valentin ROLLAND :
+
+Domaines d'intervention : 
+    Développement : contribution importante en ce qui concerne le développement général,
+    Interface web : Conception et développement de l'interface utilisateur pour visualiser les captures,
+    Intégration web-caméra : Mise en place du streaming vidéo vers l'interface web,
+
+3.3 Contribution d'Axel GROS :
+
+Domaines d'intervention :
+    Configuration matérielle : Paramétrage initial de la caméra et optimisation des réglages,
+    Tests de connectivité : Validation de la communication entre la caméra et le système,
+    Recherche documentaire : Analyse approfondie des spécifications techniques du matériel,
+
+4. Méthodologie et Organisation du Travail
+
+Outils de gestion utilisés :
+    Appels/réunions pour faire le point,
+    Communication continue pour la résolution des problèmes techniques
+
+5. Collaboration et Dynamique d'Équipe
+5.1 Qualité de la collaboration :
+
+Points forts :
+    Bonne entente entre tous les membres,
+    Entraide lors des difficultés techniques,
+    Respect des délais et des engagements pris,
+    Ambiance de travail excellente.
+
+5.2 Résolution des problèmes : 
+    On a su se donner rendez-vous et s'entraider afin de résoudre les quelques problèmes rencontrés afin de faire en sorte de pouvoir continuer notre avancée.
+
+6. Bilan et Perspectives
+6.1 Évaluation globale :
+
+Cette SAE a été une expérience particulièrement intéressante et constructive. Le travail d'équipe et notre organisation a fait en sorte que l'on réussise à franchir tous les obstacles.
+
+6.2 Apprentissages retirés :
+
+Sur le plan professionnel :
+    Importance de la communication dans les projets collaboratifs,
+    Planification rigoureuse nécessaire.
+
+Sur le plan personnel :
+    Développement de l'autonomie et de la responsabilisation,
+    Amélioration des capacités d'adaptation,
+    Renforcement de la confiance en équipe.
+
+7. Conclusion
+
+Cette SAE aura été l'occasion de mettre en pratique nos connaissances techniques dans un contexte de projet réel, tout en développant nos compétences en gestion de projet et en travail d'équipe.
